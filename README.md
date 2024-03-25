@@ -10,5 +10,5 @@ Hemos organizado nuestro trabajo utilizando la metodología Scrum. Puedes encont
 
 - [Documentación del Proyecto](enlace-a-la-documentacion)
 - [Manual de Usuario](enlace-al-manual-de-usuario)
-- [Archivo PDF con Informe de Progreso](enlace-al-archivo-pdf)
+- [Archivo PDF de Informe ](enlace-al-archivo-pdf)
 - [Tablero de Trello](https://trello.com/invite/b/cd6BhE68/ATTI49586f4e9799274ed1f5d8a3f61d258459DB8E99/proyecto-catedra-dsp)
