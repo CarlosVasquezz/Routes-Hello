@@ -8,7 +8,7 @@ Hemos organizado nuestro trabajo utilizando la metodología Scrum. Puedes encont
 
 ### Documentación
 
-- [Documentación del Proyecto]()
-- [Manual de Usuario]()
+- [Documentación del Proyecto](https://github.com/CarlosVasquezz/Routes-Hello/blob/main/Manual%20Tecnico%20RH.pdf)
+- [Manual de Usuario](https://github.com/CarlosVasquezz/Routes-Hello/blob/main/Manual%20de%20Usuario%20RH.pdf)
 - [Archivo PDF de Informe ](https://github.com/CarlosVasquezz/Routes-Hello/blob/main/Catedra%20DPS.pdf)
 - [Tablero de Trello](https://trello.com/invite/b/cd6BhE68/ATTI49586f4e9799274ed1f5d8a3f61d258459DB8E99/proyecto-catedra-dsp)
